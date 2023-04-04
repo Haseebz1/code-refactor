@@ -32,3 +32,13 @@ Made sure that
 - Heading elements follow a sequential order
 - Title is concise and descriptive
 ```
+## Link to deployed website:
+
+```
+https://haseebz1.github.io/code-refactor/
+```
+## Link to GitHub repo:
+
+```
+https://github.com/Haseebz1/code-refactor.git
+```
