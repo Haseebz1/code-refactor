@@ -1,5 +1,3 @@
-
-
 ## User Story
 
 ```
@@ -23,5 +21,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Conclusion
 
-
+```
+Made sure that 
+- Page is accessible
+- Meets semantics standards
+- Follows logical structure independent of styling and positioning
+- Has alt attributes
+- Heading elements follow a sequential order
+- Title is concise and descriptive
+```
